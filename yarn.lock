@@ -495,21 +495,6 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.16.17.tgz#c5a1a4bfe1b57f0c3e61b29883525c6da3e5c091"
   integrity sha512-y+EHuSchhL7FjHgvQL/0fnnFmO4T1bhvWANX6gcnqTjtnKWbTvUMCpGnv2+t+31d7RzyEAYAd4u2fnIhHL6N/Q==
 
-"@jonbri/fibby-ui@*":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@jonbri/fibby-ui/-/fibby-ui-1.2.0.tgz#3dde7038957813e7ea74a3ec604b93bb3f25f42f"
-  integrity sha512-UcLw4QyO8DNQnH7RGt+lAB/i40ibuG6gstlosDfrJ9pQlMBvAYBh+6k/p0EcTZoVeQtbxqd+pWYKonDL/ZclUg==
-
-"@jonbri/libby-ui@*":
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/@jonbri/libby-ui/-/libby-ui-1.2.3.tgz#e402245d9384ebc4fff7236e4a2edab284cc8f4a"
-  integrity sha512-DxlrgP7V1w3nn/BrAP1dFGS8PFyOPXSfVn3eN4uwqhFFq8Dm4KKJcfsDgr5Uu3aHB21hkLBWVwJpGs6TuCUsmw==
-
-"@jonbri/token@*":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@jonbri/token/-/token-1.1.1.tgz#d1c5dce5f4ed63005ce0fc3b7714d854c258a993"
-  integrity sha512-ImnBVehjLQPXic8J0ZGXIFSLnN/G6TXod+BtbbHp9BwhXFePsi1611zjLUgsDm+waYJwO27nIvip0Mx+stFkig==
-
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.1.1.tgz#e5d2e450306a9491e3bd77e323e38d7aff315996"
@@ -578,6 +563,21 @@
   dependencies:
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
+
+"@polyrepo-fam/fibby-ui@*":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@polyrepo-fam/fibby-ui/-/fibby-ui-1.0.1.tgz#04fb6050c9c898179804755948a5e6a0688afc42"
+  integrity sha512-y++EWKfoOABfLK3z9QwcMDVv1Sx8BoP10M3ELNEZVJlP8Uch59af+ThKJk3Aw4iT7CByG2Nt/rgP4G7R9HTVWQ==
+
+"@polyrepo-fam/libby-ui@*":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@polyrepo-fam/libby-ui/-/libby-ui-1.0.0.tgz#091131cbbc72a954621207dad42171ba355da813"
+  integrity sha512-jM+f2Q91RXcoYZVlNeazeq0z2N6drng6wltktY7Lyb6IvEqx8cEUslI3bZfwSmuWYpP3dGkjgXbLVAeKCeOhXQ==
+
+"@polyrepo-fam/token@*":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@polyrepo-fam/token/-/token-1.0.0.tgz#44fb93791f3d61d11c44157946bcbc9cd7d1e0fd"
+  integrity sha512-fRpdBMdMdnee8khIetNsEqW7bk6GVR5en0e024MSpZSQ93+31IYf7JfWP++dlMITdwnpiIerBlq8fHn9IZyTlg==
 
 "@tsconfig/node10@^1.0.7":
   version "1.0.9"
