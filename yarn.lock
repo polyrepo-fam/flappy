@@ -565,9 +565,9 @@
     fastq "^1.6.0"
 
 "@polyrepo-fam/fibby-ui@*":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@polyrepo-fam/fibby-ui/-/fibby-ui-1.0.1.tgz#04fb6050c9c898179804755948a5e6a0688afc42"
-  integrity sha512-y++EWKfoOABfLK3z9QwcMDVv1Sx8BoP10M3ELNEZVJlP8Uch59af+ThKJk3Aw4iT7CByG2Nt/rgP4G7R9HTVWQ==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@polyrepo-fam/fibby-ui/-/fibby-ui-1.0.2.tgz#702adbca6fe9765447fb44b06e99dc85f1da945d"
+  integrity sha512-0x2Fs9O0UGiNX/LY1jYDpSPL2matIdsv4k4xj61GGo2RBXs2gfzz5wbSy2HZsdhzZzfAOHoP3aoop16cRz2hDQ==
 
 "@polyrepo-fam/libby-ui@*":
   version "1.0.0"

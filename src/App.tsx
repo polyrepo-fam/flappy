@@ -4,6 +4,7 @@ import { TOKEN_COLOR } from "@polyrepo-fam/token";
 function App() {
   return (
     <div>
+      <a href="https://github.com/polyrepo-fam">polyrepo-fam</a>
       <h1
         style={{
           color: TOKEN_COLOR,
