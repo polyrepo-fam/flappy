@@ -570,9 +570,9 @@
   integrity sha512-0x2Fs9O0UGiNX/LY1jYDpSPL2matIdsv4k4xj61GGo2RBXs2gfzz5wbSy2HZsdhzZzfAOHoP3aoop16cRz2hDQ==
 
 "@polyrepo-fam/libby-ui@*":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@polyrepo-fam/libby-ui/-/libby-ui-1.0.0.tgz#091131cbbc72a954621207dad42171ba355da813"
-  integrity sha512-jM+f2Q91RXcoYZVlNeazeq0z2N6drng6wltktY7Lyb6IvEqx8cEUslI3bZfwSmuWYpP3dGkjgXbLVAeKCeOhXQ==
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@polyrepo-fam/libby-ui/-/libby-ui-1.0.1.tgz#320a8a04626e5d003059cfaf99a035bda365fbf5"
+  integrity sha512-+QROVTAV56h4L1HmcTYDsv1c0+OcBKllsq9jyDxvLw1OIQX30B6rNMmXDeqISTbkVTcRAN0ei2fnkf6LFGoa6w==
 
 "@polyrepo-fam/token@*":
   version "1.0.0"
